@@ -3,13 +3,13 @@ Hermes 专用忆无限简版：SQLite 本地记忆，单窗口无限工作，上
 
 ## 打赏 / Support
 
-如果这个项目对你有帮助，可以请我喝杯咖啡：
+If this project helps you, you can buy me a coffee:
 
 [![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?logo=paypal&logoColor=white)](https://www.paypal.me/xie1234)
 
 PayPal: https://www.paypal.me/xie1234
 
-大陆用户请扫码打赏：
+如果这个项目对你有帮助，可以请我喝杯咖啡：
 
 <img src="weixin.jpg" width="200" alt="微信收款码">
 <img src="zhifubao.jpg" width="200" alt="支付宝收款码">
