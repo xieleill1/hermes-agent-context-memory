@@ -3,8 +3,8 @@ Hermes 专用忆无限简版：SQLite 本地记忆，单窗口无限工作，上
 
 ## 下一个版本预告 / Coming Next
 
-完整版 Agent 补充功能正在准备中：新的兼容接口，能让更多 Agent 也能用上这套本地记忆，敬请期待。
-The full Agent edition is on its way: a new compatibility interface, so more agents can use this local memory too. Stay tuned.
+完整版 Agent 补充功能正在准备中，敬请期待。
+The full Agent edition is on its way. Stay tuned.
 
 ## 打赏 / Support
 
