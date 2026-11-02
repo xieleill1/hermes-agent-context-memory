@@ -1,6 +1,11 @@
 # hermes-agent-context-memory
 Hermes 专用忆无限简版：SQLite 本地记忆，单窗口无限工作，上下文超 80% 先归档转存、再清除、再继续。也可以跨窗口持续进行工作。本地模型的最佳拍档；Hermes-only MemoInfinity Lite: local SQLite memory, single-window infinite work, over 80% context, archive and transfer first, then clear, then continue. It can also continue work across windows. The best partner for local models.
 
+## 下一个版本预告 / Coming Next
+
+完整版 Agent 补充功能正在准备中：MCP 接口，让更多 Agent 也能用上这套本地记忆，敬请期待。
+The full Agent edition is on its way: an MCP interface, so more agents can use this local memory too. Stay tuned.
+
 ## 打赏 / Support
 
 If this project helps you, you can buy me a coffee:
