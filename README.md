@@ -11,4 +11,5 @@ PayPal: https://www.paypal.me/xie1234
 
 大陆用户请扫码打赏：
 
-
+<img src="weixin.jpg" width="200" alt="微信收款码">
+<img src="zhifubao.jpg" width="200" alt="支付宝收款码">
